@@ -1,0 +1,3 @@
+The two major ways of passing data around in react are:
+
+Props and Redux(using Global state)

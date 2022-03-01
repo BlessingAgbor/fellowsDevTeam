@@ -1,0 +1,7 @@
+Some of the differences between React.js and Next.js are: 
+
+React isn't efficient for a web-application when it comes to SEO(Search Engine Optimization)
+Next.js solves that props allowing search engines access key words easily from the html Next.js relates to it.
+Next.js offers Server side technology, though built on React, Next.js allows integeration for server side.
+Next.js is built on React.js, but has a routing system inbuilt(create diferent routes in the pages directory)
+Next.js also allows possible routes to be pre-loaded before the are even called upon, this allows for faster routing, React.js doesn't allow for that. 
